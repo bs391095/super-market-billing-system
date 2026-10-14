@@ -46,14 +46,6 @@ The screenshot filename above is a suggested name. Replace it with your actual f
 7. Select a discount option and provide the requested value.
 8. View the final itemized bill and payment summary.
 
-## Billing Output Screenshot
-
-The output displays the selected products, their quantities, individual amounts, subtotal, discount, and final payable amount.
-
-![Super Market Billing System - Billing Output](screenshots/billing-output.png)
-
-*Note: Upload your actual billing screenshot to the `screenshots` folder using the filename `billing-output.png`, or update the image path above to match your existing screenshot.*
-
 ## Python Source Code
 
 The following code is taken from the project notebook.
